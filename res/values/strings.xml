@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Connect</string>
+    <string name="power">Включить</string>
+    <string name="connection_type">Тип соединения</string>
+    <string name="residue">Выключать 3G через</string>
+    <string name="residue_s">секунд после откл. экрана</string>
+    <string name="period">Включать раз в </string>
+    <string name="period_s">минут</string>
+    <string name="time">Включать на </string>
+    <string name="time_s">секунд</string>
+    <string name="bt">BlueTooth</string>
+    <string name="power_bt">Выключать БТ после включения</string>
+    <string name="g3g">3G</string>
+    <string name="residue_bt">Выключать через</string>
+    <string name="residue_bt_s">минут после включения</string>
+    <string name="autostart">Автозагрузка</string>
+</resources>
